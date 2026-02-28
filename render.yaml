@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: khan-xd
+    env: docker
+    plan: free
