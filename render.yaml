@@ -2,4 +2,6 @@ services:
   - type: web
     name: khan-xd
     env: docker
+    repo: https://github.com/JawadTechXD/KHAN-XD
+    branch: main
     plan: free
